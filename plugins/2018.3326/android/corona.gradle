@@ -1,0 +1,3 @@
+dependencies {
+    implementation("com.appodeal.ads.sdk.networks:vungle:2.10.1.7")
+}
