@@ -4,7 +4,7 @@ local metadata =
 	{
 		format = 'staticLibrary',
 		staticLibs = { 'APDVungleAdapter', },
-		frameworks = { 'VungleSDK', },
+		frameworks = { 'VungleAdsSDK', },
 		frameworksOptional = {},
 	},
 }
