@@ -3,9 +3,9 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDVungleAdapter', },
-		frameworks = { 'VungleAdsSDK', },
-		frameworksOptional = {"Network"},
+		staticLibs = { 'AppodealVungleAdapter' },
+		frameworks = { 'VungleAdsSDK' },
+		frameworksOptional = { 'Network' },
 	},
 }
 
